@@ -42,3 +42,11 @@ The base config displayed here would read all submissions on Reddit, and if any 
 ```
 python bot.py
 ```
+
+# Updating the Dictionary
+
+You can pull in the latest changes to the dictionary with
+
+```
+git submodule update
+```
